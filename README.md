@@ -1,3 +1,3 @@
 ### Java-Codebits
 
-*To be updated...
+* Solutions to code problems to practice algorithms
