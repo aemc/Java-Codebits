@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="effects_apis">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file:///usr/local/Cellar/android-sdk/24.4.1_1/add-ons/addon-google_apis-google-24/docs/effects_apis" />
+      <root url="file:///usr/local/Cellar/android-sdk/24.4.1_1/add-ons/addon-google_apis-google-24/docs/maps_apis" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file:///usr/local/Cellar/android-sdk/24.4.1_1/sources/android-24" />
+      <root url="file:///usr/local/Cellar/android-sdk/24.4.1_1/tools/apps/SdkController/src" />
+      <root url="file:///usr/local/Cellar/android-sdk/24.4.1_1/tools/proguard/examples/annotations/examples" />
+      <root url="file:///usr/local/Cellar/android-sdk/24.4.1_1/tools/proguard/examples/annotations/src" />
+    </SOURCES>
+  </library>
+</component>
