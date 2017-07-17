@@ -1,7 +1,7 @@
 public class Singleton {
   /**
-  * Singleton implementation in java
-  */
+   * Singleton implementation in Java
+   */
   private static Singleton uniqueInstance;
 
   public static Singleton getInstance() {
